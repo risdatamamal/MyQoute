@@ -1,0 +1,2 @@
+rootProject.name='MyQoute'
+include ':app'
